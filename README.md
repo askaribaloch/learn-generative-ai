@@ -1,10 +1,28 @@
-# Learn Generative AI Application Development
+# Learn Generative AI Engineering (GenEng)
 
 This course is part of the [GenAI, Web 3, and Metaverse Program](https://docs.google.com/presentation/d/1XVSZhmv4XH14YpyDxJIvYWiUrF1EO9tsUnle17wCLIc/edit?usp=sharing)
 
 Before starting to learn from this repo [Learn Modern Python](https://github.com/panaverse/learn-modern-python)
 
+## All Faculty and Students please Register for Microsoft Azure and Google Cloud Accounts:
+
+
+1. Microsoft Azure Account
+https://azure.microsoft.com/en-us/free/ai-services/
+
+Note: If possible register your account with a company email address.
+
+Once you have a subscription id apply for Azure Open AI Service here:
+
+https://azure.microsoft.com/en-us/products/ai-services/openai-service
+
+
+2. Google Cloud Account
+https://cloud.google.com/free
+
 # The New Era
+
+[From Microsoft to MIT MBA, the AI reeducation boot camp is coming for every worker and executive](https://www.cnbc.com/2023/12/15/from-microsoft-to-mit-mba-an-ai-boot-camp-for-every-worker-executive.html)
 
 [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
 
@@ -27,6 +45,10 @@ GenEng revolution being led by developers who build deep proficiency in how to b
 [Watch: The Rise of GenEng](https://www.youtube.com/watch?v=RLUrvgfEeUc)
 
 # Latest News
+
+[Google launches its largest and ‘most capable’ AI model, Gemini](https://www.cnbc.com/2023/12/06/google-launches-its-largest-and-most-capable-ai-model-gemini.html)
+
+[Meta, IBM and Intel join alliance for open AI development while Google and Microsoft sit out](https://www.scmp.com/tech/big-tech/article/3244012/meta-ibm-and-intel-join-alliance-open-ai-development-while-google-and-microsoft-sit-out)
 
 [What Elon Musk has said about Ilya Sutskever, the chief scientist at the center of OpenAI’s leadership upheaval](https://finance.yahoo.com/news/elon-musk-said-ilya-sutskever-171726023.html)
 
